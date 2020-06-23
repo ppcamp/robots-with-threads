@@ -10,7 +10,7 @@ The goal is to show how much one thread interferes with the anothers, as so, sim
 
 ## Overview
 
-<img title="" src="file:///home/ppcamp/gitRepos/robotsWithThreads/doc/program_running.png" alt="program_running.png" data-align="center">
+<img title="" src="doc/program_running.png" alt="program_running.png" data-align="center">
 
 ## Summary:
 
